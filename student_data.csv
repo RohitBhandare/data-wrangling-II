@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Grade,Test_1,Test_2,Percentage,Classification
+1,John,16,M,80,90.0,80.0,85.0,Second class
+2,Jane,17,F,75,87.5,75.0,81.25,Second class
+3,Bob,18,M,90,85.0,70.0,77.5,Third class
+4,Alice,18,F,85,80.0,75.0,77.5,Third class
+5,Mike,19,M,75,75.0,80.0,77.5,Third class
+6,Emma,19,F,90,72.5,85.0,78.75,Third class
+7,Eve,20,F,80,70.0,90.0,80.0,Second class
+8,Daniel,21,M,95,67.5,95.0,81.25,Second class
+9,Emily,21,F,75,65.0,100.0,82.5,Second class
+10,Jacob,22,M,85,60.0,83.33333333333333,30.0,
